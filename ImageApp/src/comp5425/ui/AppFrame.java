@@ -1,7 +1,7 @@
 /*
  * AppFrame.java
  *
- * Created on 24 March 2007, 01:49
+ * Created on 24 March 2007, 02:21
  */
 
 package comp5425.ui;
@@ -49,11 +49,11 @@ public class AppFrame extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(org.jdesktop.layout.GroupLayout.LEADING)
-            .add(0, 722, Short.MAX_VALUE)
+            .add(0, 685, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(org.jdesktop.layout.GroupLayout.LEADING)
-            .add(0, 484, Short.MAX_VALUE)
+            .add(0, 422, Short.MAX_VALUE)
         );
         pack();
     }// </editor-fold>//GEN-END:initComponents
